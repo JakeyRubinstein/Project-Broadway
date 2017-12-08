@@ -17,6 +17,22 @@ h2 {font-family: Helvetica; font-weight: 32px; font-weight: bold;
 h3 {font-family: Helvetica; font-weight: 23px; font-weight: bold
 
 }
-.supporting-item p {font-family: Helvetica; font-size: : 14px;
+.supporting-item p {font-family: Helvetica; font-size: 14px;
+
+}
+.mini-hero h2{background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); font-family: Helvetica; font-weight: 23px; font-weight: bold; color: white;
+
+}
+#work {color: red}
+
+}
+p{display: block;
+
+}
+
+.footer {background-color: dimgrey; font-size: 11px; color: white; text-align: left;
+
+}
+.nav-footer{font-family: Helvetica; font-size: 18px; text-align: center; color: white;
 
 }
